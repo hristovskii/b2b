@@ -64,8 +64,6 @@ export default function Hero() {
         const as = Math.floor((applyDifference % (1000 * 60)) / 1000);
         setApplySeconds(as);
 
-        const targetTime = new Date("05/02/2025 21:41:30"); // Convert target time to a Date object
-
 
 
         if(d<=0 && h<=0 && m<=0 && s<=0){
