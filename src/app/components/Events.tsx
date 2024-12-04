@@ -3,7 +3,7 @@
 import Image from "next/image";
 import img1 from "@/app/resources/b2b1.jpg";
 import img2 from "@/app/resources/b2b2.jpg";
-import img3 from "@/app/resources/ui_ux.jpg";
+import img3 from "@/app/resources/b2b.jpg";
 import Heading from "./Heading";
 import { RevealList } from  'next-reveal'
 
