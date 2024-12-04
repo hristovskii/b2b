@@ -93,12 +93,12 @@ export default function Hero() {
         <div className="container mx-auto md:px-10 px-5 py-16">
           
           <h1 className="md:text-5xl text-4xl font-semibold my-3 text-balance text-white">
-              Stay on top of <span className="underline decoration-eestec">strucutral programming</span>  
-              <br /> with <span className="text-eestec font-bold">BACK TO BACICS</span>!
+              Stay on top of <span className="underline decoration-eestec">structural programming</span>  
+              <br /> with <span className="text-eestec font-bold">BACK TO BASICS</span>!
           </h1>
           
           <p className="md:text-base text-sm text-slate-50 my-3 text-balance leading-none">
-          Learn through B2B&apos;s diffrent modules. <span className="font-medium underline decoration-eestec">Power Your Future!</span>
+          Learn through B2B&apos;s different modules. <span className="font-medium underline decoration-eestec">Power Your Future!</span>
           </p>
           <Link href={"https://docs.google.com/forms/d/e/1FAIpQLScRR-SVWhtA9FGqLJUnIkzuNAxFIh90h1zA3p0IxMv3FQ1xkA/viewform"} target="blank">
             <Button text="Apply Now!" icon={MdArrowOutward}></Button>
